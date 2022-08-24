@@ -40,7 +40,7 @@ const Navbar = () => {
                         <img
                             className="avatar"
                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuoovVYEMl5PlyrnrmjPY_0bH_k0RaXYByiMVOWeEhWeG9wxWP2ozVw0Ab51hiQzxErpo&usqp=CAU"
-                            alt="user photo"
+                            alt="user"
                         />
                     </div>
                 </div>
